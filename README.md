@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:8-5-2024
+## Register Number:212223220026
+## Name:GOWSHIK S
 ## Problem Title
 E-Waste Facility Locator
 ## Problem Description
